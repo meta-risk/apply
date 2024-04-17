@@ -1,1 +1,0 @@
-anologa.css
